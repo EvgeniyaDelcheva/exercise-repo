@@ -1,8 +1,8 @@
 # exercise-repo
 Repo made for exercise
 <<<<<<< HEAD
-eDITED AGAIN IN MASTER BRANCH!
+eDITED IN MASTER BRANCH!
 =======
-Hello again!!
+Hello gitbash!!
 >>>>>>> develop
 
